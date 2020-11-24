@@ -1,0 +1,8 @@
+- Colocar titulos
+- Colocar textos
+- Fazer 4 caixas para separar
+- pegar 3 imagens
+- Centralizar caixas com titulos e textos
+- Deixar o fundo das caixas brancos
+- Colocar um fundo bonito
+- Fazer class pra separar
